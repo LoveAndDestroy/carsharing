@@ -44,6 +44,10 @@ p{
 .Roboto{
   font-family: "Roboto", sans-serif;
   font-size: 40px
+  font-style: normal;
+  font-weight: 900;
+  text-align: center
+  line-height: 14px
 }
 .phone-suffix{
   background-color: rgba(167, 222, 182, 0.38);
