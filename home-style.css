@@ -57,9 +57,10 @@ p{
   font-weight: bolder;
   text-decoration: none;
   transition: all 2s;
+  background-color: white;
 }
 .go-btn:hover {
-    background: green;
+    background-color: blue;
 }
 .welcome-text{
   padding: 5px;
