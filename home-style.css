@@ -1,1 +1,52 @@
+body{
 
+}
+p{
+  /*   font-family: "Roboto", "Text me one", sans-serif;  */
+  margin: 10px
+
+}
+.container{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-end;
+  justify-content: center;
+
+  background-image: url(images/background-home.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+.box{
+  border:10px;
+  padding: 100px;
+  margin:10px;
+
+}
+.phone-box-flex{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 25px;
+  border: 20px;
+  background-color: white;
+  border-radius: 30px;
+}
+
+.title{
+  font-family: "Text me one";
+  color: #000000;
+  text-align: center;
+  font-size: 150px;
+  margin: 1px;
+}
+.Roboto{
+  font-family: "Roboto", sans-serif;
+  font-size: 40px
+}
+.phone-suffix{
+  background-color: rgba(167, 222, 182, 0.38);
+  border-radius: 20px 0px 0px 20px;
+  padding: 10px;
+}
