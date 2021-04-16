@@ -1,5 +1,6 @@
-body{
-  margin: 0px
+* {
+  margin: 0px;
+  padding: 0px;
 }
 p{
   /*   font-family: "Roboto", "Text me one", sans-serif;  */
@@ -41,7 +42,7 @@ p{
   margin: 1px;
   padding: 5px;
 }
-.Roboto{
+.is-Roboto{
   font-family: "Roboto", sans-serif;
   font-size: 40px;
   font-style: normal;
@@ -60,4 +61,8 @@ p{
 }
 .welcome-text{
   padding: 5px;
+}
+
+.is-center{
+
 }
