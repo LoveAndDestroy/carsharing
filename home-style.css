@@ -14,8 +14,8 @@ p{
   align-items: flex-end;
   justify-content: center;
   background-image: url(images/background-home.jpg);
-  background-size: contain;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .box{
   border:10px;
