@@ -27,7 +27,8 @@ p{
 .phone-box-flex{
   display: flex;
   justify-content: space-between;
-  margin: 10px;
+  align-items: center;
+  margin: 20px;
   padding: 25px;
   border: 20px;
   background-color: white;
@@ -48,5 +49,8 @@ p{
 .phone-suffix{
   background-color: rgba(167, 222, 182, 0.38);
   border-radius: 20px 0px 0px 20px;
-  padding: 10px;
+
+}
+.go-btn{
+  text-decoration-color: green;
 }
