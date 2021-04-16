@@ -56,6 +56,10 @@ p{
   color: #2ACD56;
   font-weight: bolder;
   text-decoration: none;
+  transition: all 2s;
+}
+.go-btn:hover {
+    background: green;
 }
 .welcome-text{
   padding: 5px;
